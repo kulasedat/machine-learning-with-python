@@ -1,2 +1,2 @@
-# machine-learning-with-python
-Bu repo 5 gün süreyle düzenlenen Python ile Makine Öğrenmesi Eğitimleri için oluşturulmuştur.
+# Machine Learning with Python
+# This repository was created for the training of Machine Learning with Python
